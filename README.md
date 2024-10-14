@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**GuidaGaita/GuidaGaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Guiherme Barros. Cientista da computação em formação
+  
+Eu sou um desenvolvedor apaixonado por aprender e criar soluções inovadoras usando código! Sempre em busca de novos desafios e maneiras de melhorar minhas habilidades. 😄
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+🌱 Atualmente estou aprendendo novas tecnologias Na universidade CEUB em brasília.
+💼 Sempre em busca de oportunidades para aplicar o que sei em projetos interessantes!
+💬 Sinta-se à vontade para trocar uma ideia ou discutir sobre tecnologia comigo.
+😎 No meu tempo livre, gosto de explorar novos frameworks, praticar e construir coisas que fazem a vida mais fácil. Além de tocar gaita.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Linguagens e Ferramentas
+Aqui estão algumas das tecnologias que já tive a oportunidade de trabalhar:
+
+C 💻
+JavaScript 🟨
+TypeScript 🚀
+Java ☕
+PHP 🌐
+React ⚛️
